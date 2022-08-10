@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  color: #040C3A;
+}
+
+.underline{
+   
+ color: #040C3A;
+   text-decoration: underline;
+   text-decoration-color:#2F96B2;
+
+}
+
+.prevbtn, .nextbtn{
+  color: #2F96B2;
+  height: 40px;
+  
+}
+.prevbtn{
+  margin-right: 20px;
+}
+
+.imgcontainer{
+  width:190px;
+  height: 190px;
+  background-color:red;
+}
+img{
+  width:70px;
+  height:92px;
+}
+#job{
+  color: #2F96B2;
+}
